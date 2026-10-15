@@ -73,6 +73,6 @@ I have given a few conference talks: RubyConf India (2010, 2014), JSFoo (2012, 2
 
 ## Other Interests
 
-- **Running:** I do road and trail running, esp. marathons to 100km ultras (most recent Solang Sky Ultra 2024)
+- **Running:** I do road and trail running, esp. marathons and 100km ultras (most recent Bali Ultra 2026 , Solang Sky Ultra 2025)
 - **Cycling:** I do multi day brevets and tours (Tour of Nilgiris (2009, 2013), Tour of Tamilnadu (2012), Manali-Leh (2013) and 1200km Brevets.
 - **Traveling:** I am only Antarctica away from traveling on all continents
