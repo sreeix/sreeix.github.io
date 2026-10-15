@@ -1,6 +1,6 @@
 # Sreekanth V
 
-9900077023 · sreeix@gmail.com · Darjeeling / Jakarta · @sreeix · http://sreeix.github.io
+9900077023 · sreeix@gmail.com · Darjeeling / Bangalore · @sreeix · http://sreeix.github.io
 
 ## Profile
 
@@ -8,7 +8,7 @@ Work with interesting {people, products, problems}
 
 ## Experience
 
-**AMARTHA** — Jakarta · 2023 – Present
+**AMARTHA** — Jakarta · 2023 – August 2026
 
 - Lead the product engineering team of Amartha as a CTO to build and scale Amartha's Lending, Funding and Payments business.
 - Rebuild a lot of the infrastructure to manage growing scale and business ambitions to modern scalable infrastructure.
